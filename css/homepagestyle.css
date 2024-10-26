@@ -19,12 +19,12 @@ header {
 
 header h1 {
     margin: 0;
-    font-size: 2.5rem;
+    font-size: 2rem;
 }
 
 header p {
     margin-top: 10px;
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
 /* Navigation Styles */
@@ -47,8 +47,8 @@ nav ul li a {
     text-decoration: none;
     color: #004aad;
     font-size: 1.1rem;
-    padding: 10px 15px;
-    border: 2px solid #004aad;
+    padding: 8px 13px;
+    border: 1px solid #004aad;
     border-radius: 25px;
     transition: background-color 0.3s ease, color 0.3s ease;
 }
